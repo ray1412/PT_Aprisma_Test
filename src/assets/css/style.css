@@ -1,0 +1,14 @@
+::-webkit-scrollbar { 
+    display: none; 
+}
+.vertical-align-middle{
+	width: 1px;
+	height: 100%;
+	display: inline-block;
+	vertical-align: middle;
+}
+.clearfix {clear: both;height: 0;}
+.defaultContainer{position: relative;margin: 0!important; padding: 10px!important;}
+.hundredWidth{width:100%;margin:0!important;padding:0!important;}
+.separator{width: 100%; border: 2px solid #f5f6f7; margin: 10px 0 ;}
+.boldSeparator{width: 100%; border: 2px solid #dbdbdb; margin: 5px 0 ;}

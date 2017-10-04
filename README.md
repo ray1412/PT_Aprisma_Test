@@ -1,2 +1,29 @@
-# PT_Aprisma_Test
-This an interview test from PT Aprisma Wirecard. The purpose of this test to develop the dashboard page (one page) with the mockup data
+# aprismatest
+
+> A test from Aprisma Wirecard
+
+## Build Setup
+
+``` bash
+# install dependencies
+npm install
+
+# serve with hot reload at localhost:8080
+npm run dev
+
+# build for production with minification
+npm run build
+
+# build for production and view the bundle analyzer report
+npm run build --report
+
+# run unit tests
+npm run unit
+
+# run all tests
+npm test
+```
+
+# build componentns will be placed on dist/ folder (use http server to run it)
+
+For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
