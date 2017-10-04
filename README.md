@@ -24,6 +24,6 @@ npm run unit
 npm test
 ```
 
-# build componentns will be placed on dist/ folder (use http server to run it)
+# build components will be placed on dist/ folder (use http server to run it)
 
 For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
